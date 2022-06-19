@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Mohammad Amber Rizvi</h1>
+<h1 align="center">Hi 👋, I'm Pratyush Agrawal</h1>
 
 
 <!--
@@ -8,12 +8,11 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I’m currently working on flutter and web apps
-- 🌱 I’m currently exploring the field of data science using pyhton.
-- ⚡ Fun fact: It costs $0.0 to be a descent human being
-<!-- - 👯 I’m looking to collaborate on ... -->
+- 🌱 Apart from the Computer Science field, I am also into management as well.
+- 👯 I’m looking to collaborate on Flutter Projects
 <!-- - 🤔 I’m looking for help with ... -->
 <!-- - 💬 Ask me about development using Flutter -->
-- 📫 How to reach me: mrizvi471@gmail.com
+- 📫 How to reach me: pratyushjindal2003@gmail.com
 <!-- - 😄 Pronouns: ... -->
 ![Overall Stats](https://github-readme-stats.vercel.app/api?username=Prat2030&count_private=true&show_icons=true&hide=contribs&theme=radical)
 <br>
@@ -24,7 +23,7 @@ Here are some ideas to get you started:
 
 
 <h2> Languages And Tools 
-<!--   <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 12px>  -->
+  <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 12px> 
 </h2>
 
 <p align="left"> <a href="https://github.com/Prat2030?tab=repositories&q=&type=&language=dart&sort=" target="_blank"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> &nbsp <a href="https://github.com/Prat2030?tab=repositories&q=&type=&language=dart&sort="> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> &nbsp <a href="https://github.com/Prat2030?tab=repositories&q=&type=&language=java&sort=" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> &nbsp <a href="https://github.com/Prat2030" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> &nbsp <a href="https://github.com/Prat2030?tab=repositories&q=&type=&language=c&sort=" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> &nbsp <a href="https://github.com/Prat2030?tab=repositories&q=&type=&language=JavaScript&sort="" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> &nbsp <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> &nbsp 
