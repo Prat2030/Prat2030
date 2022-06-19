@@ -7,8 +7,8 @@
 Here are some ideas to get you started:
 -->
 
-- 🔭 I’m currently working on flutter and web apps
-- 🌱 Apart from the Computer Science field, I am also into management as well.
+- 🔭 I’m currently working on flutter and web apps.
+- 🌱 Apart from the Computer Science field, I am also into Management side as well.
 - 👯 I’m looking to collaborate on Flutter Projects
 <!-- - 🤔 I’m looking for help with ... -->
 <!-- - 💬 Ask me about development using Flutter -->
