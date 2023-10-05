@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Pratyush Agrawal</h1>
-<h3 align="center">A passionate Data Science enthusiast currently in my 3rd year of Bachelors studying Computer Science at Indian Institute of Information Technology Vadodara</h3>
+<h3 align="center">A passionate Software Developer enthusiast currently in my 4th year of Bachelors studying Computer Science at Indian Institute of Information Technology Vadodara </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prat2030&label=Profile%20views&color=0e75b6&style=flat" alt="prat2030" /> </p>
 
-- 🔭 I’m currently working on **some cool data science and ML related projects**
+- 🔭 I’m currently working on a **Social Impact Idea using Flutter**.
 
-- 🌱 I’m currently learning **Backend Development in NodeJS**
+- 🌱 I’m also exploring into **Data Science** field.
 
-- 👯 I’m looking to collaborate on **Intresting data Science related projects**
+- 👯 Always ready to collaborate on some **interesting  and impact creating ideas**.
 
-- 📫 How to reach me **pratyushjindal2003@gmail.com**
+- 📫 How to reach me **pratyushjindal2003@gmail.com**.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
