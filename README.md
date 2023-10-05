@@ -9,6 +9,8 @@
 
 - 👯 Always ready to collaborate on some **interesting  and impact creating ideas**.
 
+- 🤖 Loves to work on some software-hardware integrations using **IOT Devices**.
+
 - 📫 How to reach me **pratyushjindal2003@gmail.com**.
 
 <h3 align="left">Connect with me:</h3>
